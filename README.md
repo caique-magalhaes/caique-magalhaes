@@ -32,7 +32,6 @@ Backend & Full-Stack Developer specializing in **Python (FastAPI, Django)** and 
 
 * **[FastAPI RESTful API](https://github.com/caique-magalhaes/fastapi-sqlite-auth-relationships):** Robust content management API with TDD (Pytest), JWT Auth, SQLite, and GitHub Actions CI/CD[cite: 1].
 * **[Social Post App](https://github.com/caique-magalhaes/social-post):** Full-stack project using Python, Django, JavaScript, and SQLite[cite: 1].
-* **[Python API Tutorial](https://github.com/caique-magalhaes/python-simple-api):** Educational project built with FastAPI, Pydantic, and Uvicorn[cite: 1].
 * **[Pop It Game](https://caique-magalhaes.github.io/jogo-pop-it/):** Interactive web game built with vanilla JavaScript, HTML5, and CSS3[cite: 1].
 * **[Little Lemon Restaurant](https://caique-magalhaes.github.io/little-lemon/):** Responsive landing page design using modern CSS and HTML5[cite: 1].
 
