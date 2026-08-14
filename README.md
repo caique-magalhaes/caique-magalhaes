@@ -13,7 +13,7 @@ Backend & Full-Stack Developer specializing in **Python (FastAPI, Django)** and 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
-[![Top Langs](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://vercel.app)](https://github.com/caique-magalhaes/github-readme-stats)
 
 ---
 
